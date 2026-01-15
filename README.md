@@ -1,4 +1,4 @@
-# OceanBase Developer Quickstart
+# OceanBase Developer Quickstart 🧭
 
 [中文版本](./README.zh.md)
 
@@ -6,7 +6,7 @@ This developer-oriented guideline helps you pick the right SDKs, plugins, demos 
 
 We welcome contributions and feedback. If you have a project to add or ideas to improve this index, please open an issue or a PR.
 
-## Overview
+## Overview 🧾
 - [SDK Projects](#sdk-projects)
 - [Plugin Projects](#plugin-projects)
 - [Application Projects](#application-projects)
@@ -15,9 +15,9 @@ We welcome contributions and feedback. If you have a project to add or ideas to 
 
 
 <a id="sdk-projects"></a>
-## SDK Projects
+## SDK Projects 🧩
 
-### AI
+### AI 🤖
 | Project | Use Case | Key Features |
 | --- | --- | --- |
 | [langchain-oceanbase](https://github.com/oceanbase/langchain-oceanbase) | LangChain integration for OceanBase | LangChain integration with OceanBase. |
@@ -29,7 +29,7 @@ We welcome contributions and feedback. If you have a project to add or ideas to 
 | [seekdb-rs](https://github.com/ob-labs/seekdb-rs) | Rust SDK  | The Rust SDK for OceanBase or OceanBase seekdb. |
 | [seekdb-go](https://github.com/ob-labs/seekdb-go) | Go SDK for AI operation| The Go SDK for OceanBase or OceanBase seekdb. |
 
-### Driver or ORM
+### Driver or ORM 🔌
 | Project | Use Case | Key Features |
 | --- | --- | --- |
 | [OceanBase SQLAlchemy Plugin](https://github.com/oceanbase/ecology-plugins/tree/main/oceanbase-sqlalchemy-plugin) | Python ORM | SQLAlchemy ORM for OceanBase Oracle mode, compatible with SQLAlchemy 1.3+ and 2.0+ |
@@ -39,7 +39,7 @@ We welcome contributions and feedback. If you have a project to add or ideas to 
 | [obconnector-c](https://github.com/oceanbase/obconnector-c) | C client driver for OceanBase | OceanBase Client for C is a native driver that enables C applications to connect to the OceanBase Database. |
 | [go-oceanbase-driver](https://github.com/oceanbase/go-oceanbase-driver) | Go database/sql access to OceanBase | Go OceanBase Driver is a OceanBase driver for Go's (golang) database/sql package |
 
-### KV
+### KV 🗂️
 | Project | Use Case | Key Features |
 | --- | --- | --- |
 | [obkv-hbase-client-java](https://github.com/oceanbase/obkv-hbase-client-java) | OBKV HBase SDK in Java | OBKV HBase Client is a Java library that enables access to OceanBase data by the HBase 0.94, 1.x, or 2.x APIs. |
@@ -48,7 +48,7 @@ We welcome contributions and feedback. If you have a project to add or ideas to 
 | [obkv-table-client-go](https://github.com/oceanbase/obkv-table-client-go) | OBKV Table SDK in Go | This project is deprecated and no longer recommended for new development. |
 
 <a id="plugin-projects"></a>
-## Plugin Projects
+## Plugin Projects 🔌
 Plugins bring OceanBase/SeekDB capabilities into the developer workflow to improve search and documentation usage.
 
 | Plugin Name | Use Case | Key Features |
@@ -65,7 +65,7 @@ Plugins bring OceanBase/SeekDB capabilities into the developer workflow to impro
 | [seekdb Claude Code Plugin](https://github.com/oceanbase/seekdb-ecology-plugins/tree/main/claudecode-plugin) | Development Tools | This plugin contains seekdb skill that is designed specifically for Claude Code, aimed at enhancing Claude's capabilities in seekdb database scenarios.  |
 | [seekdb Cursor Extension](https://github.com/oceanbase/seekdb-ecology-plugins/tree/main/cursor-extension) | Development Tools | Provide Agent plugin support for seekdb, facilitating developers' use of the seekdb database within the Agent APP. |
 
-### Dify
+### Dify 🧠
 | Project | Use Case | Key Features |
 | --- | --- | --- |
 | [dify-on-mysql](https://github.com/oceanbase/dify-on-mysql) | Dify deployment on OceanBase MySQL mode | This is a branch for Dify, which provides several enhancements for Dify by replacing all storage components with OceanBase and introducing numerous enterprise features: High availability Scalable performance improvement Multi-tenancy support through OceanBase |
@@ -74,7 +74,7 @@ Plugins bring OceanBase/SeekDB capabilities into the developer workflow to impro
 | [dify-plugin-daemon](https://github.com/oceanbase/dify-plugin-daemon) | Dify plugin runtime |  |
 
 <a id="application-projects"></a>
-## Applicaiton or Demo Projects
+## Applicaiton or Demo Projects 🧪
 Demos are the fastest way to validate capabilities and bootstrap a PoC or prototype.
 
 | Project | Use Case | Key Features |
@@ -88,7 +88,7 @@ Demos are the fastest way to validate capabilities and bootstrap a PoC or protot
 | [mine-kb](https://github.com/ob-labs/mine-kb) | Local knowledge base app | A local personal knowledge base on SeekDB. |
 
 <a id="mcp-resources"></a>
-## MCP Resources
+## MCP Resources 🧰
 Model Context Protocol (MCP) integrations help AI tools and agents connect to OceanBase/SeekDB data and capabilities. If you have MCP servers, clients, or example integrations, please contribute them here so others can reuse them.
 
 [awesome-oceanbase-mcp](https://github.com/oceanbase/awesome-oceanbase-mcp)
@@ -147,11 +147,11 @@ Model Context Protocol (MCP) integrations help AI tools and agents connect to Oc
 </table>
 
 <a id="contributing"></a>
-## Contributing
+## Contributing 🤝
 We welcome SDKs, plugins, demos, tutorials, and real-world case studies. Please submit a PR with a short description of the use case and the key capabilities it demonstrates.
 
 
-## Community & Support
+## Community & Support 💬
 <div align="center">
 
 <p>

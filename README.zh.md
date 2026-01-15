@@ -1,4 +1,4 @@
-# OceanBase 开发者快速指南
+# OceanBase 开发者快速指南 🧭
 
 [English Version](./README.md)
 
@@ -6,7 +6,7 @@
 
 欢迎贡献与反馈。如果你有项目想加入清单，或对内容有改进建议，欢迎提交 Issue 或 PR。
 
-## 总览
+## 总览 🧾
 - [SDK 项目](#sdk-projects)
 - [插件项目](#plugin-projects)
 - [应用项目](#application-projects)
@@ -15,9 +15,9 @@
 
 
 <a id="sdk-projects"></a>
-## SDK 项目
+## SDK 项目 🧩
 
-### AI
+### AI 🤖
 | 项目 | 使用场景 | 关键特性 |
 | --- | --- | --- |
 | [langchain-oceanbase](https://github.com/oceanbase/langchain-oceanbase) | 面向 OceanBase 的 LangChain 集成 | LangChain 与 OceanBase 的集成。 |
@@ -29,7 +29,7 @@
 | [seekdb-rs](https://github.com/ob-labs/seekdb-rs) | Rust SDK | 面向 OceanBase 或 OceanBase seekdb 的 Rust SDK。 |
 | [seekdb-go](https://github.com/ob-labs/seekdb-go) | 用于 AI 能力的 Go SDK | 面向 OceanBase 或 OceanBase seekdb 的 Go SDK。 |
 
-### 驱动或 ORM
+### 驱动或 ORM 🔌
 | 项目 | 使用场景 | 关键特性 |
 | --- | --- | --- |
 | [OceanBase SQLAlchemy Plugin](https://github.com/oceanbase/ecology-plugins/tree/main/oceanbase-sqlalchemy-plugin) | Python ORM | OceanBase Oracle 模式 SQLAlchemy 方言，兼容 SQLAlchemy 1.3+ 与 2.0+。 |
@@ -39,7 +39,7 @@
 | [obconnector-c](https://github.com/oceanbase/obconnector-c) | OceanBase C 客户端驱动 | 原生 C 驱动，支持 C 应用连接 OceanBase 数据库。 |
 | [go-oceanbase-driver](https://github.com/oceanbase/go-oceanbase-driver) | Go database/sql 接入 | 面向 Go 的 OceanBase 驱动。 |
 
-### KV
+### KV 🗂️
 | 项目 | 使用场景 | 关键特性 |
 | --- | --- | --- |
 | [obkv-hbase-client-java](https://github.com/oceanbase/obkv-hbase-client-java) | Java 版 OBKV HBase SDK | 支持 HBase 0.94、1.x、2.x API 访问 OceanBase。 |
@@ -48,7 +48,7 @@
 | [obkv-table-client-go](https://github.com/oceanbase/obkv-table-client-go) | Go 版 OBKV Table SDK | 已弃用，不再推荐用于新项目。 |
 
 <a id="plugin-projects"></a>
-## 插件项目
+## 插件项目 🔌
 插件将 OceanBase/SeekDB 能力带入开发工作流，提升检索与文档使用效率。
 
 | 插件名称 | 使用场景 | 关键特性 |
@@ -65,7 +65,7 @@
 | [seekdb Claude Code Plugin](https://github.com/oceanbase/ecology-plugins/tree/main/claudecode-plugin) | 开发工具 | 本插件包含 seekdb 的 Claude Code 技能，，旨在增强 Claude Code 在 seekdb 数据库场景下的能力 |
 | [seekdb Cursor Extension](https://github.com/oceanbase/seekdb-ecology-plugins/tree/main/cursor-extension) | 开发工具 | 为 seekdb 提供 Agent 插件支持，便于在 Agent 应用中使用 seekdb 数据库。 |
 
-### Dify
+### Dify 🧠
 | 项目 | 使用场景 | 关键特性 |
 | --- | --- | --- |
 | [dify-on-mysql](https://github.com/oceanbase/dify-on-mysql) | 基于 OceanBase MySQL 模式 的 Dify  | 这是 Dify 的一个分支，通过将全部存储组件替换为 OceanBase，并引入多项企业特性：高可用、可扩展性能提升、基于 OceanBase 的多租户支持。 |
@@ -74,7 +74,7 @@
 | [dify-plugin-daemon](https://github.com/oceanbase/dify-plugin-daemon) | Dify 插件运行时 |  |
 
 <a id="application-projects"></a>
-## 应用或示例项目
+## 应用或示例项目 🧪
 Demo 是验证能力与快速搭建 PoC/原型的最快方式。
 
 | 项目 | 使用场景 | 关键特性 |
@@ -88,7 +88,7 @@ Demo 是验证能力与快速搭建 PoC/原型的最快方式。
 | [mine-kb](https://github.com/ob-labs/mine-kb) | 本地知识库应用 | 基于 SeekDB 的本地个人知识库应用。 |
 
 <a id="mcp-resources"></a>
-## MCP 资源
+## MCP 资源 🧰
 Model Context Protocol (MCP) 集成帮助 AI 工具与智能体连接 OceanBase/SeekDB 的数据与能力。如果你有 MCP 服务器、客户端或示例集成，欢迎贡献，方便他人复用。
 
 [awesome-oceanbase-mcp](https://github.com/oceanbase/awesome-oceanbase-mcp)
@@ -147,11 +147,11 @@ Model Context Protocol (MCP) 集成帮助 AI 工具与智能体连接 OceanBase/
 </table>
 
 <a id="contributing"></a>
-## 贡献
+## 贡献 🤝
 我们欢迎 SDK、插件、Demo、教程与真实案例。请提交 PR，并简要说明使用场景与展示的关键能力。
 
 
-## 社区与支持
+## 社区与支持 💬
 <div align="center">
 
 <p>
