@@ -53,7 +53,6 @@ Plugins bring OceanBase/SeekDB capabilities into the developer workflow to impro
 
 | Plugin Name | Use Case | Key Features |
 | --- | --- | --- |
-
 | [Flyway OceanBase Plugin](https://github.com/oceanbase/ecology-plugins/tree/main/flyway-oceanbase-plugin) | Database Migration | This plugin enables Flyway to support OceanBase in both MySQL and Oracle compatibility modes. |
 | [WordPress OceanBase Plugin](https://github.com/oceanbase/ecology-plugins/tree/main/wordpress-oceanbase-plugin) | Content Management | This plugin enables WordPress to support OceanBase in both MySQL modes. |
 | [Metabase OceanBase Plugin](https://github.com/oceanbase/ecology-plugins/tree/main/metabase-oceanbase-plugin) | Data Visualization | This plugin enables [Metabase](metabase.com) to support OceanBase in both MySQL and Oracle compatibility modes. |
