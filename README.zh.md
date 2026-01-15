@@ -1,4 +1,4 @@
-# OceanBase 开发者快速索引
+# OceanBase 开发者快速指南
 
 [English Version](./README.md)
 
