@@ -62,7 +62,6 @@
 | [kafka-connect-oceanbase](https://github.com/oceanbase/kafka-connect-oceanbase) | Kafka Connect 集成 | 支持 OceanBase 双向数据传输的 Kafka Connect 连接器，支持OceanBase MySQL 或 Oracle 模式。 |
 | [trino-oceanbase](https://github.com/oceanbase/trino-oceanbase) | Trino 查询引擎集成 | 让 Trino 连接 OceanBase（MySQL/Oracle 模式）。 |
 | [OceanBase SQL Helper Plugin](https://github.com/oceanbase/ecology-plugins/tree/main/oceanbase-sql-helper-plugin/README.md)  | 开发工具 | 帮助开发者快速查找 OceanBase SQL 关键字文档的 VS Code 扩展。 |
-| [Metabase OceanBase Plugin](https://github.com/oceanbase/ecology-plugins/tree/main/ |
 | [seekdb Claude Code Plugin](https://github.com/oceanbase/ecology-plugins/tree/main/claudecode-plugin) | 开发工具 | 本插件包含 seekdb 的 Claude Code 技能，，旨在增强 Claude Code 在 seekdb 数据库场景下的能力 |
 | [seekdb Cursor Extension](https://github.com/oceanbase/seekdb-ecology-plugins/tree/main/cursor-extension) | 开发工具 | 为 seekdb 提供 Agent 插件支持，便于在 Agent 应用中使用 seekdb 数据库。 |
 
@@ -82,8 +81,8 @@ Demo 是验证能力与快速搭建 PoC/原型的最快方式。
 | --- | --- | --- |
 | [ob-samples](https://github.com/oceanbase/ob-samples) | OceanBase 示例与最佳实践 | 展示 OceanBase 的使用方式，提供示例项目。 |
 | [image-search](https://github.com/oceanbase/image-search) | 图像相似检索 | 基于 OceanBase 向量能力的图像检索应用。 |
-| [ob-multi-model-search-demo](https://github.com/oceanbase/ob-multi-model-search-demo) | 多模态检索 Demo |  |
-| [oceanbase-demos](https://github.com/oceanbase/oceanbase-demos) | OceanBase Demo 集合 |  |
+| [ob-multi-model-search-demo](https://github.com/oceanbase/ob-multi-model-search-demo) | 多模态检索 Demo | OceanBase Demo 集合 |
+| [oceanbase-demos](https://github.com/oceanbase/oceanbase-demos) | OceanBase Demo 集合 | OceanBase Demo 集合 |
 | [devcon](https://github.com/oceanbase/devcon) | 开发者大会内容与 Demo |  |
 | [ai-workshop-2024](https://github.com/oceanbase/ai-workshop-2024) | RAG workshop 教程 | OceanBase 2024 产品发布会 AI Workshop 项目 |
 | [mine-kb](https://github.com/ob-labs/mine-kb) | 本地知识库应用 | 基于 SeekDB 的本地个人知识库应用。 |
@@ -107,42 +106,42 @@ Model Context Protocol (MCP) 集成帮助 AI 工具与智能体连接 OceanBase/
 <tr>
 <td><strong>OceanBase MCP Server</strong></td>
 <td>提供与 OceanBase 数据库安全交互的能力，支持 SQL 查询与数据管理操作</td>
-<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/src/oceanbase_mcp_server/README.md">📖 查看</a></td>
+<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/blob/main/src/oceanbase_mcp_server/README.md">📖 查看</a></td>
 </tr>
 <tr>
 <td><strong>OCP MCP Server</strong></td>
 <td>与 OceanBase 云平台集成，提供集群管理与监控能力</td>
-<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/src/ocp_mcp_server/README.md">📖 查看</a></td>
+<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/blob/main/src/ocp_mcp_server/README.md">📖 查看</a></td>
 </tr>
 <tr>
 <td><strong>OBCloud MCP Server</strong></td>
 <td>连接 OBCloud 服务，提供云数据库管理功能</td>
-<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/src/obcloud_mcp_server/README.md">📖 查看</a></td>
+<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/blob/main/src/obcloud_mcp_server/README.md">📖 查看</a></td>
 </tr>
 <tr>
 <td><strong>OKCTL MCP Server</strong></td>
 <td>在 Kubernetes 环境中管理 OceanBase 资源与部署</td>
-<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/doc/okctl_mcp_server.md">📖 查看</a></td>
+<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/blob/main/doc/okctl_mcp_server.md">📖 查看</a></td>
 </tr>
 <tr>
 <td><strong>OBDIAG MCP Server</strong></td>
 <td>提供 OceanBase 诊断工具集成，支持性能分析与故障排查</td>
-<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/doc/obdiag_mcp_server.md">📖 查看</a></td>
+<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/blob/main/doc/obdiag_mcp_server.md">📖 查看</a></td>
 </tr>
 <tr>
 <td><strong>obshell MCP Server</strong></td>
 <td>通过 obshell 支持 OceanBase 集群创建、部署与运维管理</td>
-<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/doc/obshell_mcp_server.md">📖 查看</a></td>
+<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/blob/main/doc/obshell_mcp_server.md">📖 查看</a></td>
 </tr>
 <tr>
 <td><strong>seekdb MCP Server</strong></td>
 <td>为 seekdb 数据库提供向量操作、集合管理、SQL 查询与 AI 功能</td>
-<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/src/seekdb_mcp_server/README.md">📖 查看</a></td>
+<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/blob/main/src/seekdb_mcp_server/README.md">📖 查看</a></td>
 </tr>
 <tr>
 <td><strong>PowerMem MCP Server</strong></td>
 <td>提供 AI 记忆管理能力，支持记忆存储、检索与基于艾宾浩斯遗忘曲线的智能检索</td>
-<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/src/powermem_mcp_server/README.md">📖 查看</a></td>
+<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/blob/main/src/powermem_mcp_server/README.md">📖 查看</a></td>
 </tr>
 </tbody>
 </table>

@@ -55,7 +55,7 @@ Plugins bring OceanBase/SeekDB capabilities into the developer workflow to impro
 | --- | --- | --- |
 | [Flyway OceanBase Plugin](https://github.com/oceanbase/ecology-plugins/tree/main/flyway-oceanbase-plugin) | Database Migration | This plugin enables Flyway to support OceanBase in both MySQL and Oracle compatibility modes. |
 | [WordPress OceanBase Plugin](https://github.com/oceanbase/ecology-plugins/tree/main/wordpress-oceanbase-plugin) | Content Management | This plugin enables WordPress to support OceanBase in both MySQL modes. |
-| [Metabase OceanBase Plugin](https://github.com/oceanbase/ecology-plugins/tree/main/metabase-oceanbase-plugin) | Data Visualization | This plugin enables [Metabase](metabase.com) to support OceanBase in both MySQL and Oracle compatibility modes. |
+| [Metabase OceanBase Plugin](https://github.com/oceanbase/ecology-plugins/tree/main/metabase-oceanbase-plugin) | Data Visualization | This plugin enables [Metabase](https://www.metabase.com) to support OceanBase in both MySQL and Oracle compatibility modes. |
 | [LangGraph Checkpoint OceanBase Plugin](https://github.com/oceanbase/ecology-plugins/tree/main/langgraph-checkpoint-oceanbase-plugin) | LangGraph CheckpointSaver | Implementation of LangGraph CheckpointSaver in OceanBase MySQL mode |
 | [spark-connector-oceanbase](https://github.com/oceanbase/spark-connector-oceanbase) | Data ingestion with Spark | Apache Spark Connectors for OceanBase. |
 | [flink-connector-oceanbase](https://github.com/oceanbase/flink-connector-oceanbase) | Streaming ingestion with Flink | Apache Flink Connectors for OceanBase. |
@@ -79,11 +79,10 @@ Demos are the fastest way to validate capabilities and bootstrap a PoC or protot
 
 | Project | Use Case | Key Features |
 | --- | --- | --- |
-
 | [ob-samples](https://github.com/oceanbase/ob-samples) | OceanBase samples and best practices | Show how to use OceanBase, providing the sample projects for OceanBase. |
 | [image-search](https://github.com/oceanbase/image-search) | Image similarity search | Image search application built with the vector capabilities of OceanBase |
 | [ob-multi-model-search-demo](https://github.com/oceanbase/ob-multi-model-search-demo) | Multimodal search demo |  |
-| [oceanbase-demos](https://github.com/oceanbase/oceanbase-demos) | OceanBase demo collection |  |
+| [oceanbase-demos](https://github.com/oceanbase/oceanbase-demos) | OceanBase demo collection | OceanBase Demos |
 | [devcon](https://github.com/oceanbase/devcon) | Developer conference content and demos |  |
 | [ai-workshop-2024](https://github.com/oceanbase/ai-workshop-2024) | RAG workshop and tutorial | AI Workshop Project of OceanBase 2024 Product Launch |
 | [mine-kb](https://github.com/ob-labs/mine-kb) | Local knowledge base app | A local personal knowledge base on SeekDB. |
@@ -107,42 +106,42 @@ Model Context Protocol (MCP) integrations help AI tools and agents connect to Oc
 <tr>
 <td><strong>OceanBase MCP Server</strong></td>
 <td>Provides secure interaction capabilities with OceanBase databases, supporting SQL queries, data management operations</td>
-<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/src/oceanbase_mcp_server/README.md">📖 View</a></td>
+<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/blob/main/src/oceanbase_mcp_server/README.md">📖 View</a></td>
 </tr>
 <tr>
 <td><strong>OCP MCP Server</strong></td>
 <td>Integrates with OceanBase Cloud Platform, providing cluster management and monitoring capabilities</td>
-<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/src/ocp_mcp_server/README.md">📖 View</a></td>
+<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/blob/main/src/ocp_mcp_server/README.md">📖 View</a></td>
 </tr>
 <tr>
 <td><strong>OBCloud MCP Server</strong></td>
 <td>Connects to OBCloud services, providing cloud database management functionality</td>
-<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/src/obcloud_mcp_server/README.md">📖 View</a></td>
+<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/blob/main/src/obcloud_mcp_server/README.md">📖 View</a></td>
 </tr>
 <tr>
 <td><strong>OKCTL MCP Server</strong></td>
 <td>Manages OceanBase resources and deployments in Kubernetes environments</td>
-<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/doc/okctl_mcp_server.md">📖 View</a></td>
+<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/blob/main/doc/okctl_mcp_server.md">📖 View</a></td>
 </tr>
 <tr>
 <td><strong>OBDIAG MCP Server</strong></td>
 <td>Provides OceanBase diagnostic tool integration, supporting performance analysis and troubleshooting</td>
-<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/doc/obdiag_mcp_server.md">📖 View</a></td>
+<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/blob/main/doc/obdiag_mcp_server.md">📖 View</a></td>
 </tr>
 <tr>
 <td><strong>obshell MCP Server</strong></td>
 <td>Enables OceanBase cluster creation, deployment and operations management through obshell</td>
-<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/doc/obshell_mcp_server.md">📖 View</a></td>
+<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/blob/main/doc/obshell_mcp_server.md">📖 View</a></td>
 </tr>
 <tr>
 <td><strong>seekdb MCP Server</strong></td>
 <td>Provides vector operations, collection management, SQL queries and AI functions for seekdb database</td>
-<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/src/seekdb_mcp_server/README.md">📖 View</a></td>
+<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/blob/main/src/seekdb_mcp_server/README.md">📖 View</a></td>
 </tr>
 <tr>
 <td><strong>PowerMem MCP Server</strong></td>
 <td>Provides AI memory management capabilities, supporting memory storage, search, and intelligent retrieval with Ebbinghaus forgetting curve</td>
-<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/src/powermem_mcp_server/README.md">📖 View</a></td>
+<td><a href="https://github.com/oceanbase/awesome-oceanbase-mcp/blob/main/src/powermem_mcp_server/README.md">📖 View</a></td>
 </tr>
 </tbody>
 </table>
