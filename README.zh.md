@@ -155,15 +155,14 @@ Model Context Protocol (MCP) 集成帮助 AI 工具与智能体连接 OceanBase/
 <div align="center">
 
 <p>
-    <a href="https://discord.gg/74cF8vbNEs">
-        <img src="https://img.shields.io/badge/Discord-加入群聊-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    <a href="https://github.com/oceanbase/seekdb/discussions">
-        <img src="https://img.shields.io/badge/GitHub%20Discussion-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Discussion" />
+    <a href="https://h5.dingtalk.com/circle/joinCircle.html?corpId=ding320493024256007024f2f5cc6abecb85&token=be84625101d2c2b2b675e1835e5b7988&groupCode=v1,k1,EoWBexMbnAnivFZPFszVivlsxkpAYNcvXRdF071nRRY=&from=group&ext=%7B%22channel%22%3A%22QR_GROUP_NORMAL%22%2C%22extension%22%3A%7B%22groupCode%22%3A%22v1%2Ck1%2CEoWBexMbnAnivFZPFszVivlsxkpAYNcvXRdF071nRRY%3D%22%2C%22groupFrom%22%3A%22group%22%7D%2C%22inviteId%22%3A1057855%2C%22orgId%22%3A313467091%2C%22shareType%22%3A%22GROUP%22%7D&origin=11?#/">
+        <img src="https://img.shields.io/badge/钉钉群-33254054-0084FF?style=for-the-badge&logo=dingtalk&logoColor=white" alt="钉钉群 33254054" />
     </a>
     <a href="https://ask.oceanbase.com/">
-        <img src="https://img.shields.io/badge/论坛-中文社区-FF6900?style=for-the-badge" alt="Forum" />
+        <img src="https://img.shields.io/badge/社区-问答论坛-FF6900?style=for-the-badge" alt="Forum" />
     </a>
 </p>
+
+</div>
 
 </div>
