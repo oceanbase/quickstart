@@ -47,6 +47,21 @@
 | [obkv-hbase-client-go](https://github.com/oceanbase/obkv-hbase-client-go) | Go 版 OBKV HBase SDK | 已弃用，不再推荐用于新项目。 |
 | [obkv-table-client-go](https://github.com/oceanbase/obkv-table-client-go) | Go 版 OBKV Table SDK | 已弃用，不再推荐用于新项目。 |
 
+<a id="application-projects"></a>
+## 应用或示例项目 🧪
+Demo 是验证能力与快速搭建 PoC/原型的最快方式。
+
+| 项目 | 使用场景 | 关键特性 |
+| --- | --- | --- |
+| [image-search](https://github.com/ob-labs/image-search) | 图像相似检索 | 基于 OceanBase 向量能力的图像检索应用。 |
+| [ob-samples](https://github.com/oceanbase/ob-samples) | OceanBase 示例与最佳实践 | 展示 OceanBase 的使用方式，提供示例项目。 |
+| [ob-multi-model-search-demo](https://github.com/oceanbase/ob-multi-model-search-demo) | 多模态检索 Demo | OceanBase Demo 集合 |
+| [oceanbase-demos](https://github.com/oceanbase/oceanbase-demos) | OceanBase Demo 集合 | OceanBase Demo 集合 |
+| [devcon](https://github.com/oceanbase/devcon) | 开发者大会内容与 Demo |  |
+| [ai-workshop-2024](https://github.com/oceanbase/ai-workshop-2024) | RAG workshop 教程 | OceanBase 2024 产品发布会 AI Workshop 项目 |
+| [mine-kb](https://github.com/ob-labs/mine-kb) | 本地知识库应用 | 基于 SeekDB 的本地个人知识库应用。 |
+
+
 <a id="plugin-projects"></a>
 ## 插件项目 🔌
 插件将 OceanBase/SeekDB 能力带入开发工作流，提升检索与文档使用效率。
@@ -73,19 +88,6 @@
 | [dify-plugin-oceanbase](https://github.com/oceanbase/dify-plugin-oceanbase) | Dify OceanBase 连接器 | 一个连接并查询 OceanBase 的 Dify 插件。 |
 | [dify-plugin-daemon](https://github.com/oceanbase/dify-plugin-daemon) | Dify 插件运行时 |  |
 
-<a id="application-projects"></a>
-## 应用或示例项目 🧪
-Demo 是验证能力与快速搭建 PoC/原型的最快方式。
-
-| 项目 | 使用场景 | 关键特性 |
-| --- | --- | --- |
-| [ob-samples](https://github.com/oceanbase/ob-samples) | OceanBase 示例与最佳实践 | 展示 OceanBase 的使用方式，提供示例项目。 |
-| [image-search](https://github.com/oceanbase/image-search) | 图像相似检索 | 基于 OceanBase 向量能力的图像检索应用。 |
-| [ob-multi-model-search-demo](https://github.com/oceanbase/ob-multi-model-search-demo) | 多模态检索 Demo | OceanBase Demo 集合 |
-| [oceanbase-demos](https://github.com/oceanbase/oceanbase-demos) | OceanBase Demo 集合 | OceanBase Demo 集合 |
-| [devcon](https://github.com/oceanbase/devcon) | 开发者大会内容与 Demo |  |
-| [ai-workshop-2024](https://github.com/oceanbase/ai-workshop-2024) | RAG workshop 教程 | OceanBase 2024 产品发布会 AI Workshop 项目 |
-| [mine-kb](https://github.com/ob-labs/mine-kb) | 本地知识库应用 | 基于 SeekDB 的本地个人知识库应用。 |
 
 <a id="mcp-resources"></a>
 ## MCP 资源 🧰

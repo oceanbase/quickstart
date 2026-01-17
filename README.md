@@ -47,6 +47,21 @@ We welcome contributions and feedback. If you have a project to add or ideas to 
 | [obkv-hbase-client-go](https://github.com/oceanbase/obkv-hbase-client-go) | OBKV HBase SDK in Go | This project is deprecated and no longer recommended for new development. |
 | [obkv-table-client-go](https://github.com/oceanbase/obkv-table-client-go) | OBKV Table SDK in Go | This project is deprecated and no longer recommended for new development. |
 
+<a id="application-projects"></a>
+## Applicaiton or Demo Projects 🧪
+Demos are the fastest way to validate capabilities and bootstrap a PoC or prototype.
+
+| Project | Use Case | Key Features |
+| --- | --- | --- |
+| [image-search](https://github.com/ob-labs/image-search) | Image similarity search | Image search application built with the vector capabilities of OceanBase |
+| [ob-samples](https://github.com/oceanbase/ob-samples) | OceanBase samples and best practices | Show how to use OceanBase, providing the sample projects for OceanBase. |
+| [ob-multi-model-search-demo](https://github.com/oceanbase/ob-multi-model-search-demo) | Multimodal search demo |  |
+| [oceanbase-demos](https://github.com/oceanbase/oceanbase-demos) | OceanBase demo collection | OceanBase Demos |
+| [devcon](https://github.com/oceanbase/devcon) | Developer conference content and demos |  |
+| [ai-workshop-2024](https://github.com/oceanbase/ai-workshop-2024) | RAG workshop and tutorial | AI Workshop Project of OceanBase 2024 Product Launch |
+| [mine-kb](https://github.com/ob-labs/mine-kb) | Local knowledge base app | A local personal knowledge base on SeekDB. |
+
+
 <a id="plugin-projects"></a>
 ## Plugin Projects 🔌
 Plugins bring OceanBase/SeekDB capabilities into the developer workflow to improve search and documentation usage.
@@ -73,19 +88,6 @@ Plugins bring OceanBase/SeekDB capabilities into the developer workflow to impro
 | [dify-plugin-oceanbase](https://github.com/oceanbase/dify-plugin-oceanbase) | Dify OceanBase connector | A Dify plugin that connects to and queries OceanBase. |
 | [dify-plugin-daemon](https://github.com/oceanbase/dify-plugin-daemon) | Dify plugin runtime |  |
 
-<a id="application-projects"></a>
-## Applicaiton or Demo Projects 🧪
-Demos are the fastest way to validate capabilities and bootstrap a PoC or prototype.
-
-| Project | Use Case | Key Features |
-| --- | --- | --- |
-| [ob-samples](https://github.com/oceanbase/ob-samples) | OceanBase samples and best practices | Show how to use OceanBase, providing the sample projects for OceanBase. |
-| [image-search](https://github.com/oceanbase/image-search) | Image similarity search | Image search application built with the vector capabilities of OceanBase |
-| [ob-multi-model-search-demo](https://github.com/oceanbase/ob-multi-model-search-demo) | Multimodal search demo |  |
-| [oceanbase-demos](https://github.com/oceanbase/oceanbase-demos) | OceanBase demo collection | OceanBase Demos |
-| [devcon](https://github.com/oceanbase/devcon) | Developer conference content and demos |  |
-| [ai-workshop-2024](https://github.com/oceanbase/ai-workshop-2024) | RAG workshop and tutorial | AI Workshop Project of OceanBase 2024 Product Launch |
-| [mine-kb](https://github.com/ob-labs/mine-kb) | Local knowledge base app | A local personal knowledge base on SeekDB. |
 
 <a id="mcp-resources"></a>
 ## MCP Resources 🧰
