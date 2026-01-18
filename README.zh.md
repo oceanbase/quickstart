@@ -14,16 +14,15 @@
 
 <a id="application-projects"></a>
 ## 应用或示例项目 🧪
-Demo 是验证能力与快速搭建 PoC/原型的最快方式。
 
 | 项目 | 使用场景 | 关键特性 |
 | --- | --- | --- |
-| [ChatBot](https://github.com/ob-labs/ChatBot) | RAG 教程 | ChatBot 和 RAG 应用, 展示 知识库建设以及混合检索能力 |
-| [image-search](https://github.com/oceanbase/image-search) | 图像检索 | 基于 OceanBase 向量能力的图像检索应用, 快速学习向量 embedding 和查询。 |
+| [TravelAssist](https://github.com/ob-labs/TravelAssist) | 文旅 AI Agent | 文旅 AI Agent, 展示 OceanBase AI 混合检索能力 和 GIS 能力. |
+| [ChatBot](https://github.com/ob-labs/ChatBot) | RAG 教程 | ChatBot 和 RAG 应用, 展示知识库建设以及混合检索能力 |
+| [image-search](https://github.com/oceanbase/image-search) | 图像检索 | 基于 OceanBase 向量能力的图像检索应用, 快速学习向量 embedding 和向量查询。 |
 | [mine-kb](https://github.com/ob-labs/mine-kb) | 本地知识库应用 | 基于 SeekDB 的本地个人知识库应用。 |
-| [ob-multi-model-search-demo](https://github.com/oceanbase/ob-multi-model-search-demo) | 多模态检索 Demo | OceanBase Demo 集合 |
 | [oceanbase-demos](https://github.com/oceanbase/oceanbase-demos) | OceanBase Demo 集合 | OceanBase Demo 集合 |
-| [devcon](https://github.com/oceanbase/devcon) | 开发者大会内容与 Demo |  |
+| [devcon](https://github.com/oceanbase/devcon) | 开发者大会内容与 Demo | OceanBase 开发者大会 Demo 集合 |
 | [ob-samples](https://github.com/oceanbase/ob-samples) | OceanBase 示例与最佳实践 | 展示 OceanBase 的使用方式，提供示例项目。 |
 
 <a id="sdk-projects"></a>
