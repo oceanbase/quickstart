@@ -18,11 +18,11 @@ Demos are the fastest way to validate capabilities and bootstrap a PoC or protot
 
 | Project | Use Case | Key Features |
 | --- | --- | --- |
+| [TravelAssist](https://github.com/ob-labs/TravelAssist) | Travel AI Agent | Travel AI Agent, show how to use AI hybrid search and GIS capacities on OceanBase or OceanBase seekdb. |
 | [ChatBot](https://github.com/ob-labs/ChatBot) | ChatBot & RAG | ChatBot, show how to implement a RAG based on OceanBase or OceanBase seekdb AI capabilities escpecailly hybrid search and AI embedding. |
 | [mine-kb](https://github.com/ob-labs/mine-kb) | Local knowledge base app | A local personal knowledge base on SeekDB. |
 | [image-search](https://github.com/oceanbase/image-search) | Image similarity search | Image search application built with the vector capabilities of OceanBase |
 | [ob-samples](https://github.com/oceanbase/ob-samples) | OceanBase samples and best practices | Show how to use OceanBase, providing the sample projects for OceanBase. |
-| [ob-multi-model-search-demo](https://github.com/oceanbase/ob-multi-model-search-demo) | Multimodal search demo |  |
 | [oceanbase-demos](https://github.com/oceanbase/oceanbase-demos) | OceanBase demo collection | OceanBase Demos |
 | [devcon](https://github.com/oceanbase/devcon) | Developer conference content and demos | Demos on OceanBase Developer Conference |
 
