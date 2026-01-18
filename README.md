@@ -7,10 +7,24 @@ This developer-oriented guideline helps you pick the right SDKs, plugins, demos 
 We welcome contributions and feedback. If you have a project to add or ideas to improve this index, please open an issue or a PR.
 
 ## Overview 🧾
-- [SDK Projects](#sdk-projects)
+- [Application or Demo](#application-projects): all kinds of applications which show AI capabilities of OceanBase or OceanBase seekdb
+- [SDK Projects](#sdk-projects): 
 - [Plugin Projects](#plugin-projects)
-- [Application Projects](#application-projects)
 - [MCP Resources](#mcp-resources)
+
+<a id="application-projects"></a>
+## Applicaiton or Demo Projects 🧪
+Demos are the fastest way to validate capabilities and bootstrap a PoC or prototype.
+
+| Project | Use Case | Key Features |
+| --- | --- | --- |
+| [ChatBot](https://github.com/ob-labs/ChatBot) | ChatBot & RAG | ChatBot, show how to implement a RAG based on OceanBase or OceanBase seekdb AI capabilities escpecailly hybrid search and AI embedding. |
+| [mine-kb](https://github.com/ob-labs/mine-kb) | Local knowledge base app | A local personal knowledge base on SeekDB. |
+| [image-search](https://github.com/oceanbase/image-search) | Image similarity search | Image search application built with the vector capabilities of OceanBase |
+| [ob-samples](https://github.com/oceanbase/ob-samples) | OceanBase samples and best practices | Show how to use OceanBase, providing the sample projects for OceanBase. |
+| [ob-multi-model-search-demo](https://github.com/oceanbase/ob-multi-model-search-demo) | Multimodal search demo |  |
+| [oceanbase-demos](https://github.com/oceanbase/oceanbase-demos) | OceanBase demo collection | OceanBase Demos |
+| [devcon](https://github.com/oceanbase/devcon) | Developer conference content and demos | Demos on OceanBase Developer Conference |
 
 
 
