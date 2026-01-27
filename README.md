@@ -18,10 +18,10 @@ Demos are the fastest way to validate capabilities and bootstrap a PoC or protot
 
 | Project | Use Case | Key Features |
 | --- | --- | --- |
-| [TravelAssist](https://github.com/ob-labs/TravelAssist) | Travel AI Agent | Travel AI Agent, show how to use AI hybrid search and GIS capacities on OceanBase or OceanBase seekdb. |
 | [ChatBot](https://github.com/ob-labs/ChatBot) | ChatBot & RAG | ChatBot, show how to implement a RAG based on OceanBase or OceanBase seekdb AI capabilities escpecailly hybrid search and AI embedding. |
 | [mine-kb](https://github.com/ob-labs/mine-kb) | Local knowledge base app | A local personal knowledge base on SeekDB. |
 | [image-search](https://github.com/oceanbase/image-search) | Image similarity search | Image search application built with the vector capabilities of OceanBase |
+| [TravelAssist](https://github.com/ob-labs/TravelAssist) | Travel AI Agent | Travel AI Agent, show how to use AI hybrid search and GIS capacities on OceanBase or OceanBase seekdb. |
 | [ob-samples](https://github.com/oceanbase/ob-samples) | OceanBase samples and best practices | Show how to use OceanBase, providing the sample projects for OceanBase. |
 | [oceanbase-demos](https://github.com/oceanbase/oceanbase-demos) | OceanBase demo collection | OceanBase Demos |
 | [devcon](https://github.com/oceanbase/devcon) | Developer conference content and demos | Demos on OceanBase Developer Conference |
@@ -60,20 +60,6 @@ Demos are the fastest way to validate capabilities and bootstrap a PoC or protot
 | [obkv-table-client-java](https://github.com/oceanbase/obkv-table-client-java) | OBKV Table SDK in Java | The OBKV Table Client is a Java library that provides high-performance access to table and key-value data in OceanBase’s storage layer. |
 | [obkv-hbase-client-go](https://github.com/oceanbase/obkv-hbase-client-go) | OBKV HBase SDK in Go | This project is deprecated and no longer recommended for new development. |
 | [obkv-table-client-go](https://github.com/oceanbase/obkv-table-client-go) | OBKV Table SDK in Go | This project is deprecated and no longer recommended for new development. |
-
-<a id="application-projects"></a>
-## Applicaiton or Demo Projects 🧪
-Demos are the fastest way to validate capabilities and bootstrap a PoC or prototype.
-
-| Project | Use Case | Key Features |
-| --- | --- | --- |
-| [image-search](https://github.com/ob-labs/image-search) | Image similarity search | Image search application built with the vector capabilities of OceanBase |
-| [ob-samples](https://github.com/oceanbase/ob-samples) | OceanBase samples and best practices | Show how to use OceanBase, providing the sample projects for OceanBase. |
-| [ob-multi-model-search-demo](https://github.com/oceanbase/ob-multi-model-search-demo) | Multimodal search demo |  |
-| [oceanbase-demos](https://github.com/oceanbase/oceanbase-demos) | OceanBase demo collection | OceanBase Demos |
-| [devcon](https://github.com/oceanbase/devcon) | Developer conference content and demos |  |
-| [ai-workshop-2024](https://github.com/oceanbase/ai-workshop-2024) | RAG workshop and tutorial | AI Workshop Project of OceanBase 2024 Product Launch |
-| [mine-kb](https://github.com/ob-labs/mine-kb) | Local knowledge base app | A local personal knowledge base on SeekDB. |
 
 
 <a id="plugin-projects"></a>
